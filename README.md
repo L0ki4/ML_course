@@ -1,2 +1,2 @@
-## ML_course 
-## Alexey Domrachev
+## Stanford ML course by Andrew Ng
+#  Exercises and theory materials
